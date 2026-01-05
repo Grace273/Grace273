@@ -4,16 +4,15 @@
 
 - 🔭 I’m currently working on my second website for a club!
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 🤔 I’m looking for help with my LeetCode </3
 - 📫 How to reach me: wanggracekeyi@gmail.com
 
-_Hopes & Dreams: 1. Become a Full-Stack Engineer 2. Help create something impactful for communities in need 3. Buy a standing desk 4. Learn calisthenics so I can press into a handstand from sitting_
+_Hopes & Dreams:_ 1. Become a Full-Stack Engineer 2. Help create something impactful for communities in need 3. Buy a standing desk 4. Learn calisthenics so I can press into a handstand from sitting
 
 ## 🛠️ Languages and Tools
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c++,c,nextjs,react" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,nextjs,react,postman" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,git" />
 </p>
 
@@ -23,8 +22,8 @@ _Hopes & Dreams: 1. Become a Full-Stack Engineer 2. Help create something impact
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Grace273&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Grace273's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Grace273&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Grace273's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=grace273&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Grace273's GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=grace273&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Grace273's Most Used Languages" />
 </div>
 
 <hr>
