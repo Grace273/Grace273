@@ -13,17 +13,7 @@ _Hopes & Dreams:_ 1. Become a Full-Stack Engineer 2. Help create something impac
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,nextjs,react,postman" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git" />
 </p>
-
-<hr>
-
-## ⚡️ Stats
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=grace273&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Grace273's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=grace273&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Grace273's Most Used Languages" />
-</div>
 
 <hr>
