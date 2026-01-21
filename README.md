@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me: wanggracekeyi@gmail.com
 
-_Hopes & Dreams:_ 1. Become a Full-Stack Engineer 2. Help create something impactful for communities in need 3. Buy a standing desk 4. Learn calisthenics so I can press into a handstand from sitting 😤
+_Hopes & Dreams:_ 1. Help create something impactful for communities in need 2. Buy a standing desk 😤
 
 ## 🛠️ Languages and Tools
 <br>
