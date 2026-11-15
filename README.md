@@ -2,11 +2,11 @@
 
 **CS specialist and Statistics minor at The University of Toronto**
 
-- 🔭 I’m currently working on my second website for a club!
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🔭 I’m on a software development academic internship with Remeda
+- 🌱 I’m currently learning React Native and Django
 - 📫 How to reach me: wanggracekeyi@gmail.com
 
-_Hopes & Dreams:_ 1. Help create something impactful for communities in need 2. Buy a standing desk 😤
+_Dream:_ 1. Help create something impactful for communities in need 2. Buy a standing desk 😤
 
 ## 🛠️ Languages and Tools
 <br>
